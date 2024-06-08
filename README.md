@@ -1,7 +1,7 @@
 # Nl-Error-Manager
 
 ## Welcome to Nl-Error-Manager Github Page
-## Nos plugins sont fait maison et son donc soumis à la license suivante :  GNU GENERAL PUBLIC LICENSE 2.0
+## Nos plugins sont fait maison et sont donc soumis à la license suivante :  GNU GENERAL PUBLIC LICENSE 2.0
 
 ## 💾 Comment installer la librairie ?
 
